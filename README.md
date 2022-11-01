@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @siddhantpanwar
-- 👀 I’m interested in web development, data science
+- 👀 I’m interested in web development, application development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on google
+- JUST STARTED MY OWN STRATUP!
 - 📫 How to reach me email - siddhantpanwar225@gmail.com
 
 <!---
